@@ -1,0 +1,12 @@
+{
+  "name": "jest-playground",
+  "version": "0.1.0",
+  "main": "src/",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "scripts": {
+    "start": "node src/",
+    "test": "jest src/"
+  }
+}
