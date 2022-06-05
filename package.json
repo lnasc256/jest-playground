@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "main": "src/",
   "devDependencies": {
+    "@types/jest": "^28.1.1",
     "jest": "^28.1.0"
   },
   "scripts": {
